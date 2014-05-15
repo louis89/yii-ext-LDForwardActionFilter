@@ -1,11 +1,12 @@
 <?php
 /**
- * LDForwardActionFilter class file
- * 
- * This class has one class dependency called LDConditionChainFilter which can be found on github at:
- * @link https://github.com/louis89/yii-ext-LDConditionChainFilter
- * 
+ * LDForwardActionFilter class file.
+ *
  * @author Louis A. DaPrato <l.daprato@gmail.com>
+ * @link https://lou-d.com
+ * @copyright 2014 Louis A. DaPrato
+ * @license The MIT License (MIT)
+ * @since 1.0
  */
 
 Yii::import('ext.LDConditionChainFilter.LDConditionChainFilter');
